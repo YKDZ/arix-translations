@@ -1,22 +1,22 @@
 <?php
 
 return [
-    'dashboard' => 'Dashboard',
+    'dashboard' => '仪表盘',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
-        'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'title' => 'SFTP 详情',
+        'server-address' => '服务器地址',
+        'username' => '用户名',
+        'description' => '您的 SFTP 密码与访问此面板的密码相同。',
+        'launch-sftp' => '启动 SFTP',
     ],
     'server-info' => [
-        'title' => 'Server Info',
-        'hostname' => 'Hostname',
-        'node-id' => 'Node ID',
-        'server-id' => 'Server ID',
+        'title' => '服务器信息',
+        'hostname' => '主机名',
+        'node-id' => '节点 ID',
+        'server-id' => '服务器 ID',
         
-        'uptime' => 'Uptime',
-        'server-ip' => 'Server IP',
+        'uptime' => '运行时间',
+        'server-ip' => '服务器 IP 地址',
     ],
 ];
